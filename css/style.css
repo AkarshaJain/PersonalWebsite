@@ -84,10 +84,11 @@ a:hover{
     text-align: left;
 }
 .castle{
+    height: 100%;
     left: auto; 
     right: auto;
     margin-top: 0%;
-    width: 80%;
+    width: 100%;
     text-align: center;
 }
 .cloud3{
