@@ -11,7 +11,7 @@ h1{
     font-size: 300%;
     line-height: 2;
     margin-block-end: 0%;
-    font-family: WindSong Medium;
+    font-family: WindSong Medium,Cookie;
 }
 h2{
     font-family: Lancelot; 
@@ -84,11 +84,11 @@ a:hover{
     text-align: left;
 }
 .castle{
-    height: 140%;
+    height: 100%;
     left: auto; 
     right: auto;
     margin-top: 0%;
-    width: 120%;
+    width: 100%;
     text-align: center;
 }
 .cloud3{
